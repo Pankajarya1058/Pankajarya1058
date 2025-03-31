@@ -24,7 +24,8 @@ I am a self-driven, highly motivated, and result-oriented person. I want to put 
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/e/e3/Jenkins_logo_with_title.svg" height="40" alt="Jenkins logo"  />
   <img width="12" />
-  <br></div>
+  <br></br>
+  <br></br>
   <img src="https://cdn.freelogovectors.net/wp-content/uploads/2018/07/grafana-logo.png" height="40" alt="grafana logo"  />
   <img width="12" />
   <img src="https://cdn-images-1.medium.com/max/1076/0*Pn1vXqSDvpl1sJkh" height="40" alt="Prometheus logo"  />
