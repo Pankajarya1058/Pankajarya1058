@@ -1,12 +1,14 @@
 
 ## Hi 👋, 
 
-I am [Pankaj Kumar](https://www.linkedin.com/in/pankaj-kumar-017269217/), Dedicated and detail-oriented IT professional with over 3 years of experience as a Linux Administrator and Sr. System Engineer from[](https://en.wikipedia.org/wiki/India), eager to transition into a DevOps role.
+I am [Pankaj Kumar](https://www.linkedin.com/in/pankaj-kumar-017269217/), Dedicated and detail-oriented IT professional with over 3 years of experience as a Linux Administrator and Sr. System Engineer from [🇮🇳](https://en.wikipedia.org/wiki/India), eager to transition into a DevOps role.
 
 I am a self-driven, highly motivated, and result-oriented person. I want to put my best effort into satisfying my employer and their clients. Flexible to the requirements of the company and a proactive self-learner, constantly seeking opportunities to enhance skills and contribute to the organization’s success.
-
+<br></br>
+<br></br>
 
 ## 🛠 Language and tools
+
 
 <div align="left">
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" height="40" alt="linux logo"  />
@@ -26,13 +28,13 @@ I am a self-driven, highly motivated, and result-oriented person. I want to put 
   <img src="https://cdn.freelogovectors.net/wp-content/uploads/2018/07/grafana-logo.png" height="40" alt="grafana logo"  />
   <img width="12" />
   <img src="https://cdn-images-1.medium.com/max/1076/0*Pn1vXqSDvpl1sJkh" height="40" alt="Prometheus logo"  />
-</div><dr></dr><br></br>
-
-
+</div>
+<dr></dr>
+<br></br>
 
 📫 **How to reach me** 
 
--  Contect me on [Email](mailto:pankajarya1058@gmail.com) 💌
+-  Contect me on [Email](mailto:pankajarya1058@gmail.com) 📧
 -  Connect with me on [LinkedIn](https://www.linkedin.com/in/pankaj-kumar-017269217/)
   
 
