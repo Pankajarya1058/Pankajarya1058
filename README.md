@@ -35,8 +35,11 @@ I am a self-driven, highly motivated, and result-oriented person. I want to put 
 
 📫 **How to reach me** 
 
--  Contect me on [Email](mailto:pankajarya1058@gmail.com) 📧
--  Connect with me on [LinkedIn](https://www.linkedin.com/in/pankaj-kumar-017269217/)
+-  **📧 [Email](mailto:pankajarya1058@gmail.com)**
+-  **💼 [LinkedIn](https://www.linkedin.com/in/pankaj-kumar-017269217/)**
+
+![Pankaj's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
+
   
 
 
