@@ -5,10 +5,9 @@ I am [Pankaj Kumar](https://www.linkedin.com/in/pankaj-kumar-017269217/), Dedica
 
 I am a self-driven, highly motivated, and result-oriented person. I want to put my best effort into satisfying my employer and their clients. Flexible to the requirements of the company and a proactive self-learner, constantly seeking opportunities to enhance skills and contribute to the organization’s success.
 <br></br>
-<br></br>
+
 
 ## 🛠 Language and tools
-
 
 <div align="left">
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" height="40" alt="linux logo"  />
@@ -24,7 +23,9 @@ I am a self-driven, highly motivated, and result-oriented person. I want to put 
   <img src="https://1000logos.net/wp-content/uploads/2022/07/Kubernetes-Logo.png" height="40" alt="kubernetes logo"  />
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/e/e3/Jenkins_logo_with_title.svg" height="40" alt="Jenkins logo"  />
-  <img width="12" /><br>
+  <img width="12" />
+  <br></div>
+  <br></div>
   <img src="https://cdn.freelogovectors.net/wp-content/uploads/2018/07/grafana-logo.png" height="40" alt="grafana logo"  />
   <img width="12" />
   <img src="https://cdn-images-1.medium.com/max/1076/0*Pn1vXqSDvpl1sJkh" height="40" alt="Prometheus logo"  />
