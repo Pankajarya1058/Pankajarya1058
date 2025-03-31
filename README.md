@@ -19,14 +19,14 @@ I am a self-driven, highly motivated, and result-oriented person. I want to put 
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo"  />
+  <img src="https://1000logos.net/wp-content/uploads/2022/07/Kubernetes-Logo.png" height="40" alt="kubernetes logo"  />
   <img width="12" />
-  <img src="https://logowik.com/content/uploads/images/jenkins8460.jpg" height="40" alt="Jenkins logo"  />
-  <img width="12" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e3/Jenkins_logo_with_title.svg" height="40" alt="Jenkins logo"  />
+  <img width="12" /><br>
   <img src="https://cdn.freelogovectors.net/wp-content/uploads/2018/07/grafana-logo.png" height="40" alt="grafana logo"  />
   <img width="12" />
   <img src="https://cdn-images-1.medium.com/max/1076/0*Pn1vXqSDvpl1sJkh" height="40" alt="Prometheus logo"  />
-</div>
+</div><dr></dr><br></br>
 
 
 
