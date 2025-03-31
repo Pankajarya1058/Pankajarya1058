@@ -7,7 +7,11 @@
 
 - 🌱 I’m currently learning **DevOps tools**
 
-- 📫 How to reach me **pankajarya1058@gmail.com**
+📫 **How to reach me** 
+
+-  Contect me on [Email](pankajarya1058@gmail.com)
+-  Connect with me on [LinkedIn](https://www.linkedin.com/in/pankaj-kumar-017269217/)
+-  Follow me on [Instagram]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
