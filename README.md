@@ -16,7 +16,9 @@ I am a **self-driven, highly motivated,** and **result-oriented** individual, al
 <div align="left">
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" height="40" alt="linux logo"  />
   <img width="12" />
-  <img src="https://media.licdn.com/dms/image/v2/D4D12AQFyLZBgxb109A/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1678105450255?e=2147483647&v=beta&t=KDKOU2qRj_LkfpFyRGxcnogA0_AVuH-_ao13bnpEK7I" height="40" alt="shell scripting logo"  />
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQj62sisbPMYSHtLlU0m7P6HtS7B-WefYgdKWpbW_QHt-zfYPPwSMH9CChXt464pWFfYK8&usqp=CAU" height="40" alt="shell scripting logo"  />
+  <img width="12" />
+  <img src="https://media.licdn.com/dms/image/v2/C5612AQGXcW8H7u_QiA/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1609242751927?e=2147483647&v=beta&t=Mwsm2OvVDqVXVFXaE2B22R9s78p1PVFAoaA7XDGW0FQ" height="40" alt="Ansible logo"  />
   <img width="12" />
   <img src="https://brandlogos.net/wp-content/uploads/2023/08/nginx-logo_brandlogos.net_9uzg3-512x202.png" height="40" alt="nginx logo"  />
   <img width="12" />
