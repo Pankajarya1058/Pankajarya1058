@@ -52,9 +52,7 @@ I am a **self-driven, highly motivated,** and **result-oriented** individual, al
 
 ## Contributions Graph:
 <div align="center">
-    
 ![snake gif](https://github.com/arcVaishali/arcVaishali/blob/output/github-snake-dark.svg)
-
 </div>
 
 
