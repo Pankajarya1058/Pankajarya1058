@@ -11,6 +11,9 @@ I am a **self-driven, highly motivated,** and **result-oriented** individual, al
 <br></br>
 
 
+![Logo](https://cdn.hashnode.com/res/hashnode/image/upload/v1679457321415/e404c522-8c6c-429a-b226-f8c98b9c3948.gif)
+
+
 ## 🛠 Language and tools
 
 <div align="left">
@@ -39,10 +42,19 @@ I am a **self-driven, highly motivated,** and **result-oriented** individual, al
 <dr></dr>
 <br></br>
 
-📫 **How to reach me** 
+## 📫 How to reach me
 
 -  **📧 [Email](mailto:pankajarya1058@gmail.com)**
 -  **💼 [LinkedIn](https://www.linkedin.com/in/pankaj-kumar-017269217/)**
+
+<br>
+
+## Contributions Graph:
+<div align="center">
+    
+![snake gif](https://github.com/arcVaishali/arcVaishali/blob/output/github-snake-dark.svg)
+
+</div>
 
 
   
