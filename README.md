@@ -67,7 +67,8 @@
 
 | Project | Description | Tools Used |
 |--------|-------------|------------|
-| 🐳 [datavault-app](https://github.com/Pankajarya1058/datavault-app.git) | Containerized Node.js application deployed with Kubernetes & GitHub Actions | Docker, Kubernetes, GitHub Actions, Node.js, Linux |
+| [datavault-app](https://github.com/Pankajarya1058/datavault-app.git) | Containerized Node.js application deployed with Kubernetes & GitHub Actions | Docker, Kubernetes, GitHub Actions, Node.js, mariadb, Linux |
+| [user-management-app](https://github.com/Pankajarya1058/user-management-app.git) | Containerized Node.js deployed with Docker-compose, Kubernetes & GitHub Actions | Docker, Kubernetes, GitHub Actions, Node.js, mariadb, Linux |
 
 ---
 
