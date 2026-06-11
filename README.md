@@ -1,74 +1,91 @@
-<br>
+<h1 align="center">Hi 👋, I'm Pankaj Kumar</h1>
+<h3 align="center">DevOps Engineer | Linux | Docker | Kubernetes | AWS | CI/CD | Monitoring</h3>
 
-## 👋 Hi, I am [Pankaj Kumar](https://www.linkedin.com/in/pankaj-kumar-017269217/), 
+<p align="center">
+  <a href="https://www.linkedin.com/in/pankaj-kumar-017269217/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:pankajarya1058@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=Pankajarya1058&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
 
-<br>
+---
 
+## 👨‍💻 About Me
 
+- 🔧 DevOps Engineer with **4+ years** of experience in Linux administration, cloud infrastructure, and system operations
+- ☁️ Working on **AWS EKS (Kubernetes)** cluster operations — pod health, alerting, and cluster troubleshooting
+- 🐳 Hands-on with **Docker** containerization and deploying apps across dev and production environments
+- ⚙️ Building and maintaining **CI/CD pipelines** using Jenkins and GitHub Actions
+- 📊 Monitoring infrastructure with **Prometheus, Grafana, and OpsGenie**
+- 🔁 Automating operational tasks using **Bash/Shell scripting**
+- 🌐 Configuring **Nginx** as reverse proxy and load balancer for containerized deployments
+- 📍 Based in Faridabad, India
 
-Linux & Cloud-focused **System Engineer with 4+ years of experience** working in production environments across **colocation data centers and cloud platforms**. I have a strong background in **Linux server administration, Nginx web server management, and web application deployment**.
+---
 
-Currently, I support **AWS EKS (Kubernetes) environments**, handle real-time monitoring and incident management using **OpsGenie and Jira**, and work closely with clients to ensure system stability, high availability, and SLA compliance.
+## 🛠️ Tech Stack & Tools
 
-I’m actively transitioning into a **DevOps Engineer role**, focusing on **CI/CD pipelines, containerization, cloud infrastructure, automation, and monitoring**. This GitHub profile is where I document my learning, build hands-on DevOps projects, and share practical implementations.
+### ☁️ Cloud & Infrastructure
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![AWS EKS](https://img.shields.io/badge/AWS_EKS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 
-I am a **self-driven, highly motivated,** and **result-oriented** individual, always striving to deliver the best outcomes for my employer and clients. I am **flexible, adaptable,** and a **proactive self-learner**, constantly exploring new technologies to **enhance my skills and contribute to an organization's success.**
-<br></br>
-  
+### 🐳 Containers & Orchestration
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 
-## 🚀 What I’m Working On
+### ⚙️ CI/CD & Automation
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
-- Building **CI/CD pipelines** using GitHub Actions  
-- Deploying **React.js and Node.js applications** with Docker and Nginx  
-- Hands-on practice with **Kubernetes and AWS EKS**  
-- Improving **automation and monitoring** skills for production systems  
+### 📊 Monitoring & Alerting
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![OpsGenie](https://img.shields.io/badge/OpsGenie-172B4D?style=for-the-badge&logo=atlassian&logoColor=white)
 
-<div align="center">
-  <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1679457321415/e404c522-8c6c-429a-b226-f8c98b9c3948.gif" width="700" />
-</div>
+### 🐧 OS & System Administration
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![CentOS](https://img.shields.io/badge/CentOS-262577?style=for-the-badge&logo=centos&logoColor=white)
+![RHEL](https://img.shields.io/badge/RHEL-EE0000?style=for-the-badge&logo=redhat&logoColor=white)
 
+### 🌐 Web Servers & Networking
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white)
 
-## 🛠 Language and tools
+### 🔧 Scripting & Tools
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![YAML](https://img.shields.io/badge/YAML-CB171E?style=for-the-badge&logo=yaml&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 
-<div align="left">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" height="40" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQj62sisbPMYSHtLlU0m7P6HtS7B-WefYgdKWpbW_QHt-zfYPPwSMH9CChXt464pWFfYK8&usqp=CAU" height="40" alt="shell scripting logo"  />
-  <img width="12" />
-  <!-- <img src="https://media.licdn.com/dms/image/v2/C5612AQGXcW8H7u_QiA/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1609242751927?e=2147483647&v=beta&t=Mwsm2OvVDqVXVFXaE2B22R9s78p1PVFAoaA7XDGW0FQ" height="40" alt="Ansible logo"  /> -->
-  <img width="12" />
-  <img src="https://brandlogos.net/wp-content/uploads/2023/08/nginx-logo_brandlogos.net_9uzg3-512x202.png" height="40" alt="nginx logo"  />
-  <img width="12" />
-  <img src="https://cdn.worldvectorlogo.com/logos/amazon-web-services-1.svg" height="40" alt="aws logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://1000logos.net/wp-content/uploads/2022/07/Kubernetes-Logo.png" height="40" alt="kubernetes logo"  />
-  <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e3/Jenkins_logo_with_title.svg" height="40" alt="Jenkins logo"  />
-  <img width="12" />
-  <br>
-<!--   <br>
-  <img src="https://cdn.freelogovectors.net/wp-content/uploads/2018/07/grafana-logo.png" height="40" alt="grafana logo"  />
-  <img width="12" />
-  <img src="https://cdn-images-1.medium.com/max/1076/0*Pn1vXqSDvpl1sJkh" height="40" alt="Prometheus logo"  /> -->
-</div>
-<dr></dr>
-<br></br>
+---
 
-## 📫 How to reach me
+## 📂 Featured Projects
 
--  **📧 [Email](mailto:pankajarya1058@gmail.com)**
--  **💼 [LinkedIn](https://www.linkedin.com/in/pankaj-kumar-017269217/)**
+| Project | Description | Tools Used |
+|--------|-------------|------------|
+| 🐳 [datavault-app](https://github.com/Pankajarya1058/datavault-app.git) | Containerized Node.js application deployed with Kubernetes & GitHub Actions | Docker, Kubernetes, GitHub Actions, Node.js, Linux |
 
-<br>
+---
 
-## Contributions Graph:
+## 📈 GitHub Stats
 
-  ![snake gif](https://github.com/arcVaishali/arcVaishali/blob/output/github-snake-dark.svg)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Pankajarya1058&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pankajarya1058&layout=compact&theme=tokyonight&hide_border=true" width="40%" />
+</p>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pankajarya1058&theme=tokyonight&hide_border=true" width="55%" />
+</p>
 
-  
+---
 
+## 📫 Connect With Me
 
-
+- 📧 Email: pankajarya1058@gmail.com
+- 💼 LinkedIn: [linkedin.com/in/pankaj-kumar-017269217](https://www.linkedin.com/in/pankaj-kumar-017269217/)
+- 🐙 GitHub: [github.com/Pankajarya1058](https://github.com/Pankajarya1058)
